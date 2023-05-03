@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title<imagenes y listas></title>
+</head>
+<body>
+    <h1>imagenes y listas</h1> 
+    <h2>imagenes</h2>  
+    <p>las imegenes se agregan utilizando la etiqueta <code> &#60;img&#62; </code> esta etiqueta es auto completada y tiene algunos atributos especiales <p></p>
+
+    <img src="" alt="">
+    <!---->
+
+ 
+    los vinculos o links son accesos a otras paginas o rercursos en la web <br> 
+    tienen un atributo propio que se llama href, que define la ubicacion a donde se dirije el vinculo <br>
+    la etiqueta <code>       time apertura y cierre, el contenido es lo que se ve en la pagina    </p>
+<a href="click here">lo que se ve</a> <!--los vinculos o links se definen usando la etiqueta <a> -->
+<p>el atributo href puede adoptar tres formas distintas:</p>
+<ul>
+    <li><b>Vinculos relativos</b>: como las imagenes, tienen una ruta usando como referencia el lugar donde se encuentre el documento .html<li>
+    <li><b>Vinculo absoluto</b>: esto tambien es lo mismo que con las imagenes, podemos usar una url completa, siempre teniendo en cuenta no usar
+           un link de busqueda sino la url concreta del recurso o vincular</li>
+    <li><b>Vinculo ancla</b>: los vinculos ancla se usan para referenciar a las distas partes del mismo documento, para utilizarlo se debe usar el
+           atributo global id que debe ser unico en el documento</li>
+</ul>
+<p>por otro lado los vinculos tiene otro atributo llamado target</p>
+<a href="http://" target="_blank" rel="noponer noreferrer"></a>
+<p>el atributo target junto con el rel definen como se va compòrtar el vinculo, en este caso usando el valor _blank nos abre una nueva pestaña y sin
+   referencias a la pagina actual</p>
+
+</body>
+</html
